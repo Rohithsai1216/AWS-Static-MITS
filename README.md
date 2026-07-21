@@ -54,6 +54,6 @@ This website is created for **educational and mini-project purposes**. Some info
 
 ## Author
 
-**Name:** Your Name
+**Name:** K Rohith Sai
 **College:** MITS – Deemed to be University
 **Project:** College Website Mini Project
