@@ -3,7 +3,9 @@
 A responsive college website developed as a mini project for **Madanapalle Institute of Technology & Science (MITS) – Deemed to be University**.
 
 ## Technologies Used
-
+[20/07, 10:14 pm] Pramod (PEX): 231629456941
+[20/07, 10:14 pm] Pramod (PEX): rohith_sai11111
+[20/07, 10:14 pm] Pramod (PEX): RohithSai2006
 * HTML5
 * CSS3
 * JavaScript
